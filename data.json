@@ -373,6 +373,18 @@
         "rating": "4.7",
         "image": "https://lh5.googleusercontent.com/p/AF1QipNTaYgTgMA5jO7pGv0rGuf7IpNLAxxFdKS8EJOM=w408-h544-k-no"
         "location": "https://goo.gl/maps/oJhTXvMD1Xb61NLe8"
+     },
+     {
+     "id": 30,
+        "placeOfOrigin": "India",
+        "region": "Vidarbha",
+        "city": "Nagpur",
+        "food" : "Khowa Jalebi",
+        "type": "Sweet",
+        "foodEnergy": "44 cal",
+        "rating": "4.4",
+        "image": "https://www.facebook.com/865923893447977/posts/khowa-or-mawa-jalebi-khowa-jalebi-is-very-famous-in-chhattisgarhtraditionalsweet/2751863221520692/"
+        "location": "https://g.page/matadin-ram-bhandar-maharashtra?share"
      }
    
 ]
